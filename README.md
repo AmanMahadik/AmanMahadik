@@ -13,9 +13,8 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```javascript
 const aman = {
   name:        "Aman Mahadik",
   location:    "Pune, Maharashtra 🇮🇳",
