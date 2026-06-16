@@ -24,8 +24,7 @@
 | 📍 **Location** | Pune, Maharashtra 🇮🇳 |
 | 🎓 **Education** | B.Tech (Pursuing) |
 | 💼 **Role** | Frontend Developer & Full-Stack Explorer |
-| 🔨 **Currently Working On** | 📱 Campus Connect — Mobile App |
-| | 🏫 College ERP — Mentorship & Assignment Module |
+| 🔨 **Currently Working On** | 🏫 College ERP — Mentorship & Assignment Module |  
 | ❤️ **Passion** | Building clean UIs that feel great to use |
 | ⚡ **Fun Fact** | I cloned the entire Premier League website from scratch ⚽ |
 
