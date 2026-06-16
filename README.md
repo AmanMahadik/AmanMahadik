@@ -2,32 +2,32 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aman+Mahadik+%F0%9F%91%8B;B.Tech+Student+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Dev+%7C+Java+%7C+Full-Stack+Explorer;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
+</div>
+
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Mahadik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-mahadik-349046239/)
 [![Gmail](https://img.shields.io/badge/Gmail-amanmahadik8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanmahadik8@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/AmanMahadik?label=Followers&style=for-the-badge&logo=github)](https://github.com/AmanMahadik)
 [![Profile Views](https://komarev.com/ghpvc/?username=AmanMahadik&color=6E40C9&style=for-the-badge&label=Profile+Views)](https://github.com/AmanMahadik)
 
 </div>
 
 ---
 
-##👨‍💻 About Me
-```javascript
-const aman = {
-  name:        "Aman Mahadik",
-  location:    "Pune, Maharashtra 🇮🇳",
-  education:   "B.Tech (Pursuing)",
-  role:        "Frontend Developer & Full-Stack Explorer",
-  currentWork: [
-    "📱 Campus Connect — Mobile App",
-    "🏫 College ERP — Mentorship & Assignment Module",
-  ],
-  passion:     "Building clean UIs that feel great to use",
-  funFact:     "I cloned the entire Premier League website from scratch ⚽"
-};
-```
+## 👨‍💻 About Me
+
+| | |
+|---|---|
+| 👤 **Name** | Aman Mahadik |
+| 📍 **Location** | Pune, Maharashtra 🇮🇳 |
+| 🎓 **Education** | B.Tech (Pursuing) |
+| 💼 **Role** | Frontend Developer & Full-Stack Explorer |
+| 🔨 **Currently Working On** | 📱 Campus Connect — Mobile App |
+| | 🏫 College ERP — Mentorship & Assignment Module |
+| ❤️ **Passion** | Building clean UIs that feel great to use |
+| ⚡ **Fun Fact** | I cloned the entire Premier League website from scratch ⚽ |
 
 ---
 
@@ -66,7 +66,7 @@ const aman = {
 ## 🚀 Featured Projects
 
 ### ⚡ Energy Saving Model Application *(Most Unique)*
-> A web application that models and visualizes energy consumption patterns, helping users understand and reduce their energy usage through data-driven insights. Built with a Node.js backend.
+> A web application that models and visualizes energy consumption patterns, helping users understand and reduce their energy usage through data-driven insights.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Energy_Saving_Model_App)
 
@@ -75,7 +75,7 @@ const aman = {
 ---
 
 ### ⚽ Premier League Clone
-> A pixel-perfect, fully responsive Premier League-inspired website with 16+ pages — hero carousel, live-style fixtures, league table, transfers, and a fan zone.
+> A pixel-perfect, fully responsive Premier League-inspired website with 16+ pages — hero carousel, live-style fixtures, league table, transfers, and fan zone.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-38003c?style=for-the-badge&labelColor=00ff85)](https://amanmahadik.github.io/Premier-League-Clone/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Premier-League-Clone)
@@ -93,15 +93,15 @@ const aman = {
 
 ---
 
-### 📱 Campus Connect *(Mobile App)*
-> A collaborative Android mobile application connecting students and faculty on campus. Built with a team using Android Studio and Gradle.
+### 📱 Campus Connect *(Mobile App — Collaborative)*
+> An Android mobile application connecting students and faculty on campus. Built collaboratively using Android Studio and Gradle.
 
-`Android` `Java` `Gradle` `Mobile App` `Collaborative`
+`Android` `Java` `Gradle` `Mobile App`
 
 ---
 
 ### 🏫 College ERP System *(Currently Working)*
-> Enterprise Resource Planning system for college administration — currently contributing to the **Mentorship & Assignment module** as an active team member.
+> Enterprise Resource Planning system for college administration — currently contributing to the **Mentorship & Assignment module**.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/College_ERP1)
 
@@ -110,7 +110,7 @@ const aman = {
 ---
 
 ### 📚 Student Management System
-> A Java-based student management system using packages, exception handling, and file I/O — built as part of structured learning.
+> A Java-based student management system using packages, exception handling, and file I/O.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Student_Managment_System_Super30)
 
