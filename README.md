@@ -128,14 +128,14 @@
 
 <div align="center">
 
-<a href="https://github.com/AmanMahadik/Energy_Saving_Model_App">
+<a href="https://github.com/AmanMahadik/Energy_Saving_Model">
   <img src="https://img.icons8.com/fluency/96/energy-saving-bulb.png" width="90" alt="Energy Saving App Logo" />
 </a>
 
 <br/><br/>
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Energy_Saving_Model_App)
-[![JavaScript](https://img.shields.io/badge/Built_with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AmanMahadik/Energy_Saving_Model_App)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Energy_Saving_Model)
+[![JavaScript](https://img.shields.io/badge/Built_with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AmanMahadik/Energy_Saving_Model)
 
 </div>
 
