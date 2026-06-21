@@ -20,7 +20,10 @@
 
 ## 👨‍💻 About Me
 
-<center><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" /></center>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</div>
+
 
 | | |
 |---|---|
