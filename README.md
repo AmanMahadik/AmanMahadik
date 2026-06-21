@@ -24,7 +24,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
 
-<div align = "center">
+<div align="center">
+
 | | |
 |---|---|
 | 👤 **Name** | Aman Mahadik |
@@ -34,6 +35,7 @@
 | 🔨 **Currently Working On** | 🏫 College ERP — Mentorship & Assignment Module |
 | ❤️ **Passion** | Building clean UIs that feel great to use |
 | ⚡ **Fun Fact** | I cloned the entire Premier League website from scratch ⚽ |
+
 </div>
 <br clear="right"/>
 
