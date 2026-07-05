@@ -32,7 +32,7 @@
 | 📍 **Location** | Pune, Maharashtra 🇮🇳 |
 | 🎓 **Education** | B.Tech (Pursuing) |
 | 💼 **Role** | Frontend Developer & Full-Stack Explorer |
-| 🔨 **Currently Working On** | 🏫 College ERP — Mentorship & Assignment Module |
+| 🔨 **Currently Working On** | 🏢 SocietySync — Multi-Tenant Housing Society Platform |
 | ❤️ **Passion** | Building clean UIs that feel great to use |
 | ⚡ **Fun Fact** | I cloned the entire Premier League website from scratch ⚽ |
 
@@ -64,6 +64,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Tools**
@@ -87,22 +88,22 @@
 
 ---
 
-### ⚽ Premier League Clone — *Frontend Masterpiece*
+### 🏢 SocietySync — *Multi-Tenant Housing Society Management Platform*
 
 <div align="center">
 
-<a href="https://amanmahadik.github.io/Premier-League-Clone/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg" width="90" alt="Premier League Logo" />
-</a>
+[![Made with Supabase](https://img.shields.io/badge/Backend-Supabase-2EA043?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-<br/><br/>
+<br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-38003c?style=for-the-badge&labelColor=00ff85&color=38003c)](https://amanmahadik.github.io/Premier-League-Clone/)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Premier-League-Clone)
+[![Admin Web Portal](https://img.shields.io/badge/🌐_Web_Portal-Visit_Site-6C5CE7?style=for-the-badge)](https://society-sync-portal.vercel.app/)
+[![Landing Site](https://img.shields.io/badge/🌐_Landing_Site-Visit_Site-6C5CE7?style=for-the-badge)](https://society-sync-info.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AmanMahadik/Society_Sync)
 
 </div>
 
-> 🏆 **A pixel-perfect, fully responsive Premier League-inspired website** — built entirely from scratch with 16+ interconnected pages, live-style fixtures, league table, transfers, fan zone, and a hero news carousel.
+> 🏢 **A premium, secure digital society manager** that helps Admins, Owners, Tenants, and Guards run residential life — from one app, in real time. Built with a Next.js 15 web portal, an Expo React Native (SDK 54) mobile app, and a Supabase/PostgreSQL backend.
 
 <details>
 <summary><b>🔍 Click to expand highlights</b></summary>
@@ -111,21 +112,22 @@
 
 | Category | Details |
 |---|---|
-| 📄 **Pages** | 16+ pages with consistent layout system |
-| 🎨 **Design** | Dark-themed UI with PL brand color palette (`#38003c` purple + `#00ff85` green) |
-| 📱 **Responsive** | Mobile-first with custom sidebar navigation |
-| ⚡ **Interactions** | Sticky animated navbar, hero carousel, smooth hover transitions |
-| 📰 **Sections** | News, Fixtures, League Table, Transfers, Clubs, Fan Zone, Polls |
-| 🧱 **Architecture** | Reusable CSS & JS components, semantic HTML5 |
+| 🚨 **Emergency SOS Shield** | One-tap crisis alert triggering a full-screen alarm for all active Admins & Guards, with Acknowledge → Resolve workflow |
+| 🚗 **Smart Visitor Parking** | Live V1–V10 slot grid by date/time-block, with request → approve → gate-checklist flow |
+| 💰 **Festival Ledgers & Dues** | Transparent fund tracking with itemized transactions, receipt uploads & monthly maintenance status |
+| 💬 **Council Chats & Polls** | Category-threaded discussions plus live-voting polls powered by Supabase Realtime |
+| 🔐 **Role-Based Access** | Three-tier role system (Master Admin, Society Admin, Owner/Tenant) with society-scoped Row-Level Security |
+| 🏗️ **Architecture** | Multi-tenant data isolation across all tables, society registration & approval workflow, per-society Google Maps integration |
 
 </details>
 
 **Tech Used:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -173,7 +175,7 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🔐 **Auth System** | Full-stack auth with JWT, CAPTCHA, role-based access | React · Express · MongoDB · JWT | [Repo](https://github.com/AmanMahadik) |
+| ⚽ **Premier League Clone** | Pixel-perfect, fully responsive Premier League-inspired website with 16+ pages, fixtures, league table & transfers | HTML5 · CSS3 · Bootstrap 5 · JavaScript | [Repo](https://github.com/AmanMahadik/Premier-League-Clone) |
 | 📱 **Campus Connect** | Android app connecting students & faculty on campus | Java · Android · Gradle | Collaborative |
 | 🏫 **College ERP** | ERP system — Mentorship & Assignment module | Java · OOP · ERP | [Repo](https://github.com/AmanMahadik/College_ERP1) |
 | 📚 **Student Mgmt System** | Java-based system with file I/O & exception handling | Java · OOP · File I/O | [Repo](https://github.com/AmanMahadik/Student_Managment_System_Super30) |
